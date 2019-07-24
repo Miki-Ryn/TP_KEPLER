@@ -1,0 +1,147 @@
+PERIODO;CODIBARRIO;NOMBARRIO;NOMDISTR;INDICE
+0:00:00;01; el Raval;Ciutat Vella;0.541
+0:00:00;02; el Barri Gotic;Ciutat Vella;0.388
+0:00:00;03; la Barceloneta;Ciutat Vella;0.541
+0:00:00;04; Sant Pere, Santa Caterina i la Ribera;Ciutat Vella;0.452
+0:00:00;05; el Fort Pienc;Eixample;0.448
+0:00:00;06; la Sagrada Familia;Eixample;0.522
+0:00:00;07; la Dreta de l'Eixample;Eixample;0.490
+0:00:00;08; l'Antiga Esquerra de l'Eixample;Eixample;0.533
+0:00:00;09; la Nova Esquerra de l'Eixample;Eixample;0.583
+0:00:00;10; Sant Antoni;Eixample;0.480
+0:00:00;11; el Poble Sec ;Sants;0.486
+0:00:00;12; la Marina del Prat Vermell ;Sants;0.285
+0:00:00;13; la Marina de Port;Sants;0.321
+0:00:00;14; la Font de la Guatlla;Sants;0.371
+0:00:00;15; Hostafrancs;Sants;0.394
+0:00:00;16; la Bordeta;Sants;0.354
+0:00:00;17; Sants - Badal;Sants;0.412
+0:00:00;18; Sants;Sants;0.507
+0:00:00;19; les Corts;Les Corts;0.490
+0:00:00;20; la Maternitat i Sant Ramon;Les Corts;0.386
+0:00:00;21; Pedralbes;Les Corts;0.405
+0:00:00;22; Vallvidrera, el Tibidabo i les Planes;Sarria - Sant Gervasi;0.240
+0:00:00;23; Sarria;Sarria - Sant Gervasi;0.469
+0:00:00;24; les Tres Torres;Sarria - Sant Gervasi;0.463
+0:00:00;25; Sant Gervasi - la Bonanova;Sarria - Sant Gervasi;0.404
+0:00:00;26; Sant Gervasi - Galvany;Sarria - Sant Gervasi;0.523
+0:00:00;27; el Putxet i el Farro;Sarria - Sant Gervasi;0.462
+0:00:00;28; Vallcarca i els Penitents;Gracia;0.354
+0:00:00;29; el Coll;Gracia;0.333
+0:00:00;30; la Salut;Gracia;0.357
+0:00:00;31; la Vila de Gracia;Gracia;0.663
+0:00:00;32; el Camp d'en Grassot i Gracia Nova;Gracia;0.445
+0:00:00;33; el Baix Guinardo;Horta-Guinardo;0.392
+0:00:00;34; Can Baro;Horta-Guinardo;0.357
+0:00:00;35; el Guinardo;Horta-Guinardo;0.420
+0:00:00;36; la Font d'en Fargues;Horta-Guinardo;0.314
+0:00:00;37; el Carmel;Horta-Guinardo;0.360
+0:00:00;38; la Teixonera;Horta-Guinardo;0.307
+0:00:00;39; Sant Genos dels Agudells;Horta-Guinardo;0.278
+0:00:00;40; Montbau;Horta-Guinardo;0.310
+0:00:00;41; la Vall d'Hebron;Horta-Guinardo;0.366
+0:00:00;42; la Clota;Horta-Guinardo;0.484
+0:00:00;43; Horta;Horta-Guinardo;0.349
+0:00:00;44; Vilapicina i la Torre Llobeta;Nou Barris;0.363
+0:00:00;45; Porta;Nou Barris;0.350
+0:00:00;46; el Turo de la Peira;Nou Barris;0.271
+0:00:00;47; Can Peguera;Nou Barris;0.459
+0:00:00;48; la Guineueta;Nou Barris;0.302
+0:00:00;49; Canyelles;Nou Barris;0.238
+0:00:00;50; les Roquetes;Nou Barris;0.319
+0:00:00;51; Verdun;Nou Barris;0.322
+0:00:00;52; la Prosperitat;Nou Barris;0.364
+0:00:00;53; la Trinitat Nova;Nou Barris;0.314
+0:00:00;54; Torre Baro;Nou Barris;0.125
+0:00:00;55; Ciutat Meridiana;Nou Barris;0.233
+0:00:00;56; Vallbona;Nou Barris;0.181
+0:00:00;57; la Trinitat Vella;Sant Andreu;0.290
+0:00:00;58; Baro de Viver;Sant Andreu;0.158
+0:00:00;59; el Bon Pastor;Sant Andreu;0.286
+0:00:00;60; Sant Andreu;Sant Andreu;0.453
+0:00:00;61; la Sagrera;Sant Andreu;0.397
+0:00:00;62; el Congros i els Indians;Sant Andreu;0.343
+0:00:00;63; Navas;Sant Andreu;0.356
+0:00:00;64; el Camp de l'Arpa del Clot;Sant Marti;0.465
+0:00:00;65; el Clot;Sant Marti;0.397
+0:00:00;66; el Parc i la Llacuna del Poblenou;Sant Marti;0.399
+0:00:00;67; la Vila Olompica del Poblenou;Sant Marti;0.397
+0:00:00;68; el Poblenou;Sant Marti;0.466
+0:00:00;69; Diagonal Mar i el Front Marotim del Poblenou;Sant Marti;0.427
+0:00:00;70; el Besos i el Maresme;Sant Marti;0.334
+0:00:00;71; Proven̤als del Poblenou;Sant Marti;0.367
+0:00:00;72; Sant Marto de Proven̤als;Sant Marti;0.328
+0:00:00;73; la Verneda i la Pau;Sant Marti;0.313
+0:00:05;01; el Raval;Ciutat Vella;0.566
+0:00:05;02; el Barri Gotic;Ciutat Vella;0.408
+0:00:05;03; la Barceloneta;Ciutat Vella;0.555
+0:00:05;04; Sant Pere, Santa Caterina i la Ribera;Ciutat Vella;0.488
+0:00:05;05; el Fort Pienc;Eixample;0.467
+0:00:05;06; la Sagrada Familia;Eixample;0.572
+0:00:05;07; la Dreta de l'Eixample;Eixample;0.546
+0:00:05;08; l'Antiga Esquerra de l'Eixample;Eixample;0.566
+0:00:05;09; la Nova Esquerra de l'Eixample;Eixample;0.585
+0:00:05;10; Sant Antoni;Eixample;0.470
+0:00:05;11; el Poble Sec ;Sants;0.493
+0:00:05;12; la Marina del Prat Vermell ;Sants;0.218
+0:00:05;13; la Marina de Port;Sants;0.314
+0:00:05;14; la Font de la Guatlla;Sants;0.350
+0:00:05;15; Hostafrancs;Sants;0.393
+0:00:05;16; la Bordeta;Sants;0.353
+0:00:05;17; Sants - Badal;Sants;0.419
+0:00:05;18; Sants;Sants;0.485
+0:00:05;19; les Corts;Les Corts;0.482
+0:00:05;20; la Maternitat i Sant Ramon;Les Corts;0.392
+0:00:05;21; Pedralbes;Les Corts;0.475
+0:00:05;22; Vallvidrera, el Tibidabo i les Planes;Sarria - Sant Gervasi;0.212
+0:00:05;23; Sarria;Sarria - Sant Gervasi;0.490
+0:00:05;24; les Tres Torres;Sarria - Sant Gervasi;0.465
+0:00:05;25; Sant Gervasi - la Bonanova;Sarria - Sant Gervasi;0.427
+0:00:05;26; Sant Gervasi - Galvany;Sarria - Sant Gervasi;0.535
+0:00:05;27; el Putxet i el Farro;Sarria - Sant Gervasi;0.471
+0:00:05;28; Vallcarca i els Penitents;Gracia;0.385
+0:00:05;29; el Coll;Gracia;0.329
+0:00:05;30; la Salut;Gracia;0.367
+0:00:05;31; la Vila de Gracia;Gracia;0.682
+0:00:05;32; el Camp d'en Grassot i Gracia Nova;Gracia;0.464
+0:00:05;33; el Baix Guinardo;Horta-Guinardo;0.407
+0:00:05;34; Can Baro;Horta-Guinardo;0.313
+0:00:05;35; el Guinardo;Horta-Guinardo;0.438
+0:00:05;36; la Font d'en Fargues;Horta-Guinardo;0.385
+0:00:05;37; el Carmel;Horta-Guinardo;0.386
+0:00:05;38; la Teixonera;Horta-Guinardo;0.305
+0:00:05;39; Sant Genos dels Agudells;Horta-Guinardo;0.283
+0:00:05;40; Montbau;Horta-Guinardo;0.304
+0:00:05;41; la Vall d'Hebron;Horta-Guinardo;0.328
+0:00:05;42; la Clota;Horta-Guinardo;0.293
+0:00:05;43; Horta;Horta-Guinardo;0.350
+0:00:05;44; Vilapicina i la Torre Llobeta;Nou Barris;0.363
+0:00:05;45; Porta;Nou Barris;0.371
+0:00:05;46; el Turo de la Peira;Nou Barris;0.311
+0:00:05;47; Can Peguera;Nou Barris;0.427
+0:00:05;48; la Guineueta;Nou Barris;0.315
+0:00:05;49; Canyelles;Nou Barris;0.194
+0:00:05;50; les Roquetes;Nou Barris;0.304
+0:00:05;51; Verdun;Nou Barris;0.336
+0:00:05;52; la Prosperitat;Nou Barris;0.369
+0:00:05;53; la Trinitat Nova;Nou Barris;0.310
+0:00:05;54; Torre Baro;Nou Barris;0.202
+0:00:05;55; Ciutat Meridiana;Nou Barris;0.247
+0:00:05;56; Vallbona;Nou Barris;0.218
+0:00:05;57; la Trinitat Vella;Sant Andreu;0.233
+0:00:05;58; Baro de Viver;Sant Andreu;0.159
+0:00:05;59; el Bon Pastor;Sant Andreu;0.274
+0:00:05;60; Sant Andreu;Sant Andreu;0.448
+0:00:05;61; la Sagrera;Sant Andreu;0.394
+0:00:05;62; el Congros i els Indians;Sant Andreu;0.336
+0:00:05;63; Navas;Sant Andreu;0.332
+0:00:05;64; el Camp de l'Arpa del Clot;Sant Marti;0.458
+0:00:05;65; el Clot;Sant Marti;0.408
+0:00:05;66; el Parc i la Llacuna del Poblenou;Sant Marti;0.374
+0:00:05;67; la Vila Olompica del Poblenou;Sant Marti;0.453
+0:00:05;68; el Poblenou;Sant Marti;0.456
+0:00:05;69; Diagonal Mar i el Front Marotim del Poblenou;Sant Marti;0.392
+0:00:05;70; el Besos i el Maresme;Sant Marti;0.314
+0:00:05;71; Proven̤als del Poblenou;Sant Marti;0.347
+0:00:05;72; Sant Marto de Proven̤als;Sant Marti;0.362
+0:00:05;73; la Verneda i la Pau;Sant Marti;0.327
