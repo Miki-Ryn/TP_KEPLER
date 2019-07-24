@@ -1,5 +1,6 @@
 # TP_KEPLER
-Trabajo Prático hecho con Kepler.gl
+Trabajo Prático hecho con Kepler.gl realizado por Miguel Royan en el marco de el Máster de Sistemas de Información Geográfica. 
+Se utilizan los programas : Excel, QGIS y el portal web para visualizaciones Kepler.gl
 
 # OBJETIVO: 
 
